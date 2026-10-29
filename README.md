@@ -1,1 +1,1 @@
-# codeqldemo
+# CodeQLDemo
